@@ -1,0 +1,2 @@
+Uses backtracking search with forward chaining and most remaining values heuristics to solve a constraint satisfaction problem.
+Solves these types of problems: http://www2.stetson.edu/~efriedma/puzzle/latin/
