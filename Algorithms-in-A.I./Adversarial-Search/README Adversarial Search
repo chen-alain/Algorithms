@@ -1,1 +1,9 @@
 Implement an adversarial/game search on a 4 by 4 tic tac toe game board.
+
+GameSearch.java: the main file.
+BeginnerTicTacToePlayer: implements a player that places a mark on the first available space it sees unless someone will win.
+HumanTicTacToePlayer: allows a human to play the game.
+MinimaxTicTacToePlayer: uses adversarial search to determine the best move.
+Node: helper class in search.
+Point: stores x,y coordinate info.
+TicTacToePlayer: an interface for all kinds of Tic Tac Toe Players.
