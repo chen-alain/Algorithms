@@ -1,1 +1,1 @@
-Some basic searches.
+Includes iterative deepening tree search, depth-first graph search, and A* search
